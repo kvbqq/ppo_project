@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ReBWw6O18s4=",
+  "success": true,
+  "projectFilePath": "/Users/jakubb/Developer/LibrarySystem/ppo_project.csproj",
+  "expectedPackageFiles": [
+    "/Users/jakubb/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
